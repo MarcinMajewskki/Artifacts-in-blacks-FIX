@@ -1,10 +1,10 @@
-# Simple program to avoid Artifacts on final output HDR photo from Luminance HDR
-# It removes black pixels with values 0,0,0 
+ Simple program to avoid Artifacts on final output HDR photo from Luminance HDR
+ It removes black pixels with values 0,0,0 
 
-# Just use it for input photos that you want to merge in LuminanceHDR
-# only works with jpg files.
+ Just use it for input photos that you want to merge in LuminanceHDR
+ only works with jpg files.
 
-# Example
+ Example
 # Before
 ![before](https://user-images.githubusercontent.com/110712843/215278599-32393c79-07ed-4345-addf-51ec1354eb31.JPG)
 
